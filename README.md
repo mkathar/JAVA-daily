@@ -25,5 +25,5 @@
 
 ---
 
-## Day-5 -Clock
+## Day-6 -Clock
 ![](/Day%206%20js-Clock/Clock/clock-png.png)
