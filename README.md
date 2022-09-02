@@ -22,3 +22,8 @@
 
 ## Day-5 -HOVERBOARD
 ![](/Day%205%20js-hoverboard/hoverboard/hoverboard-2.png)
+
+---
+
+## Day-5 -Clock
+![](/Day%206%20js-Clock/Clock/clock-png.png)
