@@ -1,4 +1,4 @@
-# JAVA-Daily
+# JS-Daily
 
 ## Day-1 -BACKGROUND-TRANSİTİON
 ![](/Day%201%20js-bgTransition/bg/bg-1.png)
